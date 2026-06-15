@@ -1,0 +1,47 @@
+.stApp {
+    background: linear-gradient(
+        135deg,
+        #141E30,
+        #243B55
+    );
+}
+
+.main-title {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.subtitle {
+    text-align: center;
+    color: #dcdcdc;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.song-card {
+    background-color: rgba(255,255,255,0.08);
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 12px;
+    border-left: 5px solid #1DB954;
+}
+
+.song-title {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.song-singer {
+    color: #1DB954;
+}
+
+.song-year {
+    color: #cccccc;
+}
+
+.recommend-btn {
+    width: 100%;
+}
